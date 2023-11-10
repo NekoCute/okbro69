@@ -4,7 +4,6 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
     MAIN_UI_COLOR = Color3.fromRGB(255, 165, 0), -- Color3.fromRGB(170, 85, 255)
     
     BlackScreen = true, -- less lag
-    _G.BypassTeleport = true,
     FastMode = true, -- true/false less lag
     AutoRejoinGame = 1800, -- time in second, rejoin to bypass anticheat
     GetFruitInWorld = true, -- true/false collect fruit
